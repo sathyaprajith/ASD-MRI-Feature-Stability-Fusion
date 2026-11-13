@@ -1,0 +1,345 @@
+{
+  "source_archive_sha256": "898455e66c4721b0d00889abdf9a440432b513c2d70523d973332efe7bc16258",
+  "archive_date": "2026-11-11",
+  "release_prepared": "2026-11-12",
+  "note": "Historical model Python files are byte-identical. New launchers, plotting and documentation are outside checksum-locked stage1. Original internal reviews, unpublished manuscripts and submission records are excluded.",
+  "files": [
+    {
+      "path": "code/stage1/experiments/__init__.py",
+      "archive_member": "04_Code/Experiments/06_selected_equal/source/experiments/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "modified": false
+    },
+    {
+      "path": "code/stage1/experiments/fmri_edges/__init__.py",
+      "archive_member": "04_Code/Experiments/06_selected_equal/source/experiments/fmri_edges/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "modified": false
+    },
+    {
+      "path": "code/stage1/experiments/fmri_edges/model.py",
+      "archive_member": "04_Code/Experiments/06_selected_equal/source/experiments/fmri_edges/model.py",
+      "sha256": "5b2ee626a67aeabf6b4744e1fff4756faa583695f6beebdb66b0d6aae0a26f50",
+      "modified": false
+    },
+    {
+      "path": "code/stage1/experiments/fmri_roi/__init__.py",
+      "archive_member": "04_Code/Experiments/06_selected_equal/source/experiments/fmri_roi/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "modified": false
+    },
+    {
+      "path": "code/stage1/experiments/fmri_roi/model.py",
+      "archive_member": "04_Code/Experiments/06_selected_equal/source/experiments/fmri_roi/model.py",
+      "sha256": "d6ddfccf74ad56e630304a60002f0e222c503e21418e4aa0641f15cf9168aec9",
+      "modified": false
+    },
+    {
+      "path": "code/stage1/experiments/fusion_attention/__init__.py",
+      "archive_member": "04_Code/Experiments/06_selected_equal/source/experiments/fusion_attention/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "modified": false
+    },
+    {
+      "path": "code/stage1/experiments/fusion_attention/model.py",
+      "archive_member": "04_Code/Experiments/06_selected_equal/source/experiments/fusion_attention/model.py",
+      "sha256": "88274fbebb78b3c1c310bc8af31c0a3a516dda74b7333996a8afcd9bdbbb7f2a",
+      "modified": false
+    },
+    {
+      "path": "code/stage1/experiments/fusion_fixed/__init__.py",
+      "archive_member": "04_Code/Experiments/06_selected_equal/source/experiments/fusion_fixed/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "modified": false
+    },
+    {
+      "path": "code/stage1/experiments/fusion_fixed/model.py",
+      "archive_member": "04_Code/Experiments/06_selected_equal/source/experiments/fusion_fixed/model.py",
+      "sha256": "25d50bdebc599909818052d811f1d3dd3e954506b3d88a90fad81e26dc29212f",
+      "modified": false
+    },
+    {
+      "path": "code/stage1/experiments/fusion_gated/__init__.py",
+      "archive_member": "04_Code/Experiments/06_selected_equal/source/experiments/fusion_gated/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "modified": false
+    },
+    {
+      "path": "code/stage1/experiments/fusion_gated/model.py",
+      "archive_member": "04_Code/Experiments/06_selected_equal/source/experiments/fusion_gated/model.py",
+      "sha256": "50908963a2c24f4a5ae184f23b3f3641e706f112f4562b7c2db759be65f05d4c",
+      "modified": false
+    },
+    {
+      "path": "code/stage1/experiments/reference_v4/__init__.py",
+      "archive_member": "04_Code/Experiments/06_selected_equal/source/experiments/reference_v4/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "modified": false
+    },
+    {
+      "path": "code/stage1/experiments/reference_v4/model.py",
+      "archive_member": "04_Code/Experiments/06_selected_equal/source/experiments/reference_v4/model.py",
+      "sha256": "94b1821045db3007cdbef7acc63ba31e642b86ee270ad4cedcaf79ead941222c",
+      "modified": false
+    },
+    {
+      "path": "code/stage1/experiments/registry.py",
+      "archive_member": "04_Code/Experiments/06_selected_equal/source/experiments/registry.py",
+      "sha256": "caaa348a7d547fc2da2031da15af98c51011f04858b36c5c3f9e9c3e0e47756c",
+      "modified": false
+    },
+    {
+      "path": "code/stage1/experiments/smri_stability/__init__.py",
+      "archive_member": "04_Code/Experiments/06_selected_equal/source/experiments/smri_stability/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "modified": false
+    },
+    {
+      "path": "code/stage1/experiments/smri_stability/model.py",
+      "archive_member": "04_Code/Experiments/06_selected_equal/source/experiments/smri_stability/model.py",
+      "sha256": "77619637c05d70e3891b97ffde9423d5ad64b5b76ce4f25b848bfb1c3fe4e836",
+      "modified": false
+    },
+    {
+      "path": "code/stage1/pipeline/__init__.py",
+      "archive_member": "04_Code/Experiments/06_selected_equal/source/pipeline/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "modified": false
+    },
+    {
+      "path": "code/stage1/pipeline/data.py",
+      "archive_member": "04_Code/Experiments/06_selected_equal/source/pipeline/data.py",
+      "sha256": "262211d7320e407292442e8a0789e55b0c8931fd9bfd2b422c6e0feebe83f3fd",
+      "modified": false
+    },
+    {
+      "path": "code/stage1/pipeline/experts.py",
+      "archive_member": "04_Code/Experiments/06_selected_equal/source/pipeline/experts.py",
+      "sha256": "67f8fd26bc0e6b0b17262a578a080bdde03225cbba1861b6aa1934df13f4d5ba",
+      "modified": false
+    },
+    {
+      "path": "code/stage1/pipeline/features.py",
+      "archive_member": "04_Code/Experiments/06_selected_equal/source/pipeline/features.py",
+      "sha256": "5b08f2bf42daa902baa6b75ebac49282403c30a933ad846e2104e3ff9171f4ca",
+      "modified": false
+    },
+    {
+      "path": "code/stage1/pipeline/reporting.py",
+      "archive_member": "04_Code/Experiments/06_selected_equal/source/pipeline/reporting.py",
+      "sha256": "56eb861a732841863b88b8faa02a987627f35f609ffef2a16c1e19eca1301877",
+      "modified": false
+    },
+    {
+      "path": "code/stage1/pipeline/selection.py",
+      "archive_member": "04_Code/Experiments/06_selected_equal/source/pipeline/selection.py",
+      "sha256": "6a51eab6dd3aa77f82fef31a131759d529d361d1086d2a9525ad3767cc059237",
+      "modified": false
+    },
+    {
+      "path": "code/stage1/pipeline/splits.py",
+      "archive_member": "04_Code/Experiments/06_selected_equal/source/pipeline/splits.py",
+      "sha256": "b84af66ae3ca85195546cb7a50ab15635b2b506e3e511a64360d66b1243603e0",
+      "modified": false
+    },
+    {
+      "path": "code/stage1/pipeline/tuning.py",
+      "archive_member": "04_Code/Experiments/06_selected_equal/source/pipeline/tuning.py",
+      "sha256": "71f0c0d049c77187f48df4e075af65d702519cc38f1b15abd55a9cc462010227",
+      "modified": false
+    },
+    {
+      "path": "code/stage1/progress.py",
+      "archive_member": "04_Code/Experiments/06_selected_equal/source/progress.py",
+      "sha256": "1e0d4a484c6a61970f6648e519ac9b33bd7f34b2004601065c3fbf9b8fde608b",
+      "modified": false
+    },
+    {
+      "path": "code/stage1/run.py",
+      "archive_member": "04_Code/Experiments/06_selected_equal/source/run.py",
+      "sha256": "d22478b2c988fa45ad569dd3392aa945100ab091d9dfc2a01e53338a382798bb",
+      "modified": false
+    },
+    {
+      "path": "code/stage1/tests/conftest.py",
+      "archive_member": "04_Code/Experiments/06_selected_equal/source/tests/conftest.py",
+      "sha256": "a2cd140b428af4a9ae9bf2a9b445394544d42d88ba7e08bded1b09cd83336d1f",
+      "modified": false
+    },
+    {
+      "path": "code/stage1/tests/test_contract.py",
+      "archive_member": "04_Code/Experiments/06_selected_equal/source/tests/test_contract.py",
+      "sha256": "6457c8cd9bf560518f3f99d8b2a50d02e04ee2ae556b5c800d8763c3fe82ba55",
+      "modified": false
+    },
+    {
+      "path": "code/stage1/tests/test_runner_synthetic.py",
+      "archive_member": "04_Code/Experiments/06_selected_equal/source/tests/test_runner_synthetic.py",
+      "sha256": "8eec796ad8c032bc633eaefd36a5e575960c8c138a40b4a4f9439a4072dca999",
+      "modified": false
+    },
+    {
+      "path": "code/stage1/vendor/__init__.py",
+      "archive_member": "04_Code/Experiments/06_selected_equal/source/vendor/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "modified": false
+    },
+    {
+      "path": "code/stage1/vendor/v4/__init__.py",
+      "archive_member": "04_Code/Experiments/06_selected_equal/source/vendor/v4/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "modified": false
+    },
+    {
+      "path": "code/stage1/vendor/v4/advanced_fusion.py",
+      "archive_member": "04_Code/Experiments/06_selected_equal/source/vendor/v4/advanced_fusion.py",
+      "sha256": "7ae20f5a448a4cc2c43af098eb2d65be74e4ddef4fe86b09d0092f7bd30b510d",
+      "modified": false
+    },
+    {
+      "path": "code/stage1/vendor/v4/controls.py",
+      "archive_member": "04_Code/Experiments/06_selected_equal/source/vendor/v4/controls.py",
+      "sha256": "692d3018a1d8aeac80eb0de9b96184745cd962f3a96124903b5366587cacfc56",
+      "modified": false
+    },
+    {
+      "path": "code/stage1/vendor/v4/cv_utils.py",
+      "archive_member": "04_Code/Experiments/06_selected_equal/source/vendor/v4/cv_utils.py",
+      "sha256": "430a0b728debe5d48a01f0daddbd01ce85a2a75be4836161ad7422641e305f2e",
+      "modified": false
+    },
+    {
+      "path": "code/stage1/vendor/v4/feature_suite.py",
+      "archive_member": "04_Code/Experiments/06_selected_equal/source/vendor/v4/feature_suite.py",
+      "sha256": "29563b20fc12051f8d51edcf1b18502a60604c5bcedb03a79c3c77018dca9476",
+      "modified": false
+    },
+    {
+      "path": "code/stage1/vendor/v4/matched_data.py",
+      "archive_member": "04_Code/Experiments/06_selected_equal/source/vendor/v4/matched_data.py",
+      "sha256": "d2b04f4a126b239f5e0e33a4f9b788709b2b81f233d0ac3e3cf241ff23d30e34",
+      "modified": false
+    },
+    {
+      "path": "code/stage1/vendor/v4/metadata.py",
+      "archive_member": "04_Code/Experiments/06_selected_equal/source/vendor/v4/metadata.py",
+      "sha256": "5c7c9e830a495f1cb45c519bdf41222b6faed8129b42534fd5f52b96d151356c",
+      "modified": false
+    },
+    {
+      "path": "code/stage2/progress.py",
+      "archive_member": "04_Code/Experiments/19_nested_site_aware_optimization/source/progress.py",
+      "sha256": "76adf94a6bbc45881d23f97a99b87bc3d7f48b8b048a5b7d00a019f5a612236a",
+      "modified": false
+    },
+    {
+      "path": "code/stage2/scripts/compare_paired.py",
+      "archive_member": "04_Code/Experiments/19_nested_site_aware_optimization/source/scripts/compare_paired.py",
+      "sha256": "087f84c37f2e11cc17eb9bb30398bde563b427331280c98f4192086165723576",
+      "modified": false
+    },
+    {
+      "path": "code/stage2/scripts/export_aggregate.py",
+      "archive_member": "04_Code/Experiments/19_nested_site_aware_optimization/source/scripts/export_aggregate.py",
+      "sha256": "238569f4b2232b7049cfe76171afea927e82d963084dff2b2e64f7fbc5ebf7b4",
+      "modified": false
+    },
+    {
+      "path": "code/stage2/scripts/nested_search.py",
+      "archive_member": "04_Code/Experiments/19_nested_site_aware_optimization/source/scripts/nested_search.py",
+      "sha256": "964372b77319371fb760360c4124d961f5e6d5901b422a5c7a387fd5d5d65fb1",
+      "modified": false
+    },
+    {
+      "path": "code/stage2/scripts/quick_ensembles.py",
+      "archive_member": "04_Code/Experiments/19_nested_site_aware_optimization/source/scripts/quick_ensembles.py",
+      "sha256": "b6425c9a59977022456fae3aee1c88a97761793c6ddec6190692ef5a4ff8182f",
+      "modified": false
+    },
+    {
+      "path": "code/stage2/tests/test_pipeline.py",
+      "archive_member": "04_Code/Experiments/19_nested_site_aware_optimization/source/tests/test_pipeline.py",
+      "sha256": "6ec79b35997a34f9594509ac84c375ef76d1924eb2463ad2be4e2915b08555fa",
+      "modified": false
+    },
+    {
+      "path": "results/aggregate/Additional_file_1_Site_and_Model_Results.csv",
+      "archive_member": "03_Supplementary/Journal_Files/Additional_file_1_Site_and_Model_Results.csv",
+      "sha256": "31641c8fdf30ff4875f1618f74ac1210668a42cbad1a6c602b0f010149bbb2fc",
+      "modified": false
+    },
+    {
+      "path": "results/aggregate/Additional_file_2_Feature_Selection_Stability.csv",
+      "archive_member": "03_Supplementary/Journal_Files/Additional_file_2_Feature_Selection_Stability.csv",
+      "sha256": "4999cc783d049ac2307961bbada39fcb12a648598543de0134ffee596b59c25a",
+      "modified": false
+    },
+    {
+      "path": "results/aggregate/Additional_file_3_Model_and_Ensemble_Summary.csv",
+      "archive_member": "03_Supplementary/Journal_Files/Additional_file_3_Model_and_Ensemble_Summary.csv",
+      "sha256": "41e7aa6062bb4fe5f5c4c6eed3100cc64403f59e9a00fa647ee2b8612dc02a66",
+      "modified": false
+    },
+    {
+      "path": "results/aggregate/Additional_file_4_Reproducibility_and_Methods.pdf",
+      "archive_member": "03_Supplementary/Journal_Files/Additional_file_4_Reproducibility_and_Methods.pdf",
+      "sha256": "f76f2282ef24372341fd175639dd5b015f5c9c4fe43f3581d43d8b47cc833fc1",
+      "modified": false
+    },
+    {
+      "path": "results/aggregate/Additional_file_5_Classifier_Research_Journey.pdf",
+      "archive_member": "03_Supplementary/Journal_Files/Additional_file_5_Classifier_Research_Journey.pdf",
+      "sha256": "a1f0d49914432542857666e4632fab9bf755b30661b5489cc276d8e1deccbe94",
+      "modified": false
+    },
+    {
+      "path": "results/aggregate/Additional_file_6_Classifier_Experiment_Inventory.csv",
+      "archive_member": "03_Supplementary/Journal_Files/Additional_file_6_Classifier_Experiment_Inventory.csv",
+      "sha256": "44359a11c97fecb5b4d4c60d3b126df109b38b7b677891790d221ac31b59259f",
+      "modified": false
+    },
+    {
+      "path": "figures/archived/Figure_1_Study_Workflow.pdf",
+      "archive_member": "01_Paper/Source/figures/Figure_1_Study_Workflow.pdf",
+      "sha256": "91b6e4ab65d542f8f785093881b94041e33320c91310bc7bb877f4bc1aee271a",
+      "modified": false
+    },
+    {
+      "path": "figures/archived/Figure_2_Model_Leaderboard.pdf",
+      "archive_member": "01_Paper/Source/figures/Figure_2_Model_Leaderboard.pdf",
+      "sha256": "466824042a386d056131105504ff149d3c38a070406348c26165bcb3080b156a",
+      "modified": false
+    },
+    {
+      "path": "figures/archived/Figure_3_Site_Differences.pdf",
+      "archive_member": "01_Paper/Source/figures/Figure_3_Site_Differences.pdf",
+      "sha256": "de9df5c24fd5f6f7530a031cab01a41a6fee238e662de9dcc6175fb928ac053a",
+      "modified": false
+    },
+    {
+      "path": "figures/archived/Figure_4_Anatomical_Stability.pdf",
+      "archive_member": "01_Paper/Source/figures/Figure_4_Anatomical_Stability.pdf",
+      "sha256": "0983c5370136cb9fe04d623e3d00671387aa29c4e120f8d57f8dd321eecb7eef",
+      "modified": false
+    },
+    {
+      "path": "figures/archived/Figure_5_FC_Selection_Stability_selected_equal.pdf",
+      "archive_member": "01_Paper/Source/figures/Figure_5_FC_Selection_Stability_selected_equal.pdf",
+      "sha256": "08d0023dc81f23076ae6804450a45ffe41554eeee4a1ea67eac7f55077af0c16",
+      "modified": false
+    },
+    {
+      "path": "scripts/plot_fc_stability.py",
+      "archive_member": "02_Figures/Editable_and_Reproducible/Figure5_generate_from_real_data.py",
+      "sha256": "5953e634db0201d045dfe4e0a24425a7577ebb2c2a61758c53585073ea392ab3",
+      "modified": true,
+      "note": "Replaced machine-specific input discovery with the bundled aggregate CSV."
+    },
+    {
+      "path": "scripts/plot_supplementary.py",
+      "archive_member": "03_Supplementary/Supplementary_Figures/Regenerate_From_Existing_Aggregates.py",
+      "sha256": "5394e1a21553c4646eeb5199a2da54cd944eadf3130b9f5659504f8c50666749",
+      "modified": true
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "algorithm": "SHA-256 over sorted relative Python paths and bytes, excluding tests; Linux path convention",
+  "stage1_code_sha256": "1405fb37fa064628a5b02ca11f85420bef38f8bc3cc08f3163822b7ac6eea99c",
+  "cohort_feature_sha256": "af538bf3da2091f3dfb78564c1127bf615d10aed586899e697f670127e283953",
+  "roster_csv_sha256": "124f9dd311d3038417687ccddf14047fc625e133337b831acccca2384972384e",
+  "note": "The feature fingerprint and roster CSV fingerprint are different checks. Never disable cohort/source verification to force a run."
+}

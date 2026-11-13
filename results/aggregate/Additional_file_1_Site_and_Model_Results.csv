@@ -1,0 +1,375 @@
+stage,recipe,seed,site_family,n_subjects,n_asd,auc,balanced_accuracy,average_precision,comparison_status
+original_10_arm_suite,fmri_edges,17,ABIDE_I::CALTECH,29,15,0.628571429,0.547619048,0.642985133,outer LOSO; original model suite
+original_10_arm_suite,fmri_edges,17,ABIDE_I::CMU,8,3,0.733333333,0.400000000,0.588888889,outer LOSO; original model suite
+original_10_arm_suite,fmri_edges,17,ABIDE_I::KKI,37,15,0.663636364,0.687878788,0.635619755,outer LOSO; original model suite
+original_10_arm_suite,fmri_edges,17,ABIDE_I::LEUVEN,44,19,0.680000000,0.590526316,0.635458552,outer LOSO; original model suite
+original_10_arm_suite,fmri_edges,17,ABIDE_I::MAX_MUN,30,11,0.377990431,0.346889952,0.378859774,outer LOSO; original model suite
+original_10_arm_suite,fmri_edges,17,ABIDE_I::NYU,145,62,0.609211038,0.565487757,0.536263877,outer LOSO; original model suite
+original_10_arm_suite,fmri_edges,17,ABIDE_I::OHSU,18,9,0.567901235,0.444444444,0.581999736,outer LOSO; original model suite
+original_10_arm_suite,fmri_edges,17,ABIDE_I::OLIN,22,12,0.816666667,0.816666667,0.797970956,outer LOSO; original model suite
+original_10_arm_suite,fmri_edges,17,ABIDE_I::PITT,21,12,0.342592593,0.402777778,0.522824013,outer LOSO; original model suite
+original_10_arm_suite,fmri_edges,17,ABIDE_I::SBL,13,6,0.904761905,0.833333333,0.916666667,outer LOSO; original model suite
+original_10_arm_suite,fmri_edges,17,ABIDE_I::SDSU,29,11,0.454545455,0.494949495,0.431448837,outer LOSO; original model suite
+original_10_arm_suite,fmri_edges,17,ABIDE_I::STANFORD,27,12,0.488888889,0.466666667,0.458564274,outer LOSO; original model suite
+original_10_arm_suite,fmri_edges,17,ABIDE_I::TRINITY,36,18,0.719135802,0.666666667,0.685208814,outer LOSO; original model suite
+original_10_arm_suite,fmri_edges,17,ABIDE_I::UCLA,63,32,0.517137097,0.508568548,0.505010458,outer LOSO; original model suite
+original_10_arm_suite,fmri_edges,17,ABIDE_I::UM,103,46,0.629672006,0.642257818,0.593407549,outer LOSO; original model suite
+original_10_arm_suite,fmri_edges,17,ABIDE_I::USM,52,32,0.709375000,0.690625000,0.790125474,outer LOSO; original model suite
+original_10_arm_suite,fmri_edges,17,ABIDE_I::YALE,43,21,0.580086580,0.555194805,0.529113164,outer LOSO; original model suite
+original_10_arm_suite,fmri_roi,17,ABIDE_I::CALTECH,29,15,0.571428571,0.583333333,0.648672907,outer LOSO; original model suite
+original_10_arm_suite,fmri_roi,17,ABIDE_I::CMU,8,3,0.666666667,0.566666667,0.533333333,outer LOSO; original model suite
+original_10_arm_suite,fmri_roi,17,ABIDE_I::KKI,37,15,0.721212121,0.730303030,0.695737864,outer LOSO; original model suite
+original_10_arm_suite,fmri_roi,17,ABIDE_I::LEUVEN,44,19,0.669473684,0.550526316,0.588582617,outer LOSO; original model suite
+original_10_arm_suite,fmri_roi,17,ABIDE_I::MAX_MUN,30,11,0.377990431,0.464114833,0.381791006,outer LOSO; original model suite
+original_10_arm_suite,fmri_roi,17,ABIDE_I::NYU,145,62,0.592887680,0.549358725,0.513225640,outer LOSO; original model suite
+original_10_arm_suite,fmri_roi,17,ABIDE_I::OHSU,18,9,0.506172840,0.611111111,0.521324355,outer LOSO; original model suite
+original_10_arm_suite,fmri_roi,17,ABIDE_I::OLIN,22,12,0.800000000,0.683333333,0.827711640,outer LOSO; original model suite
+original_10_arm_suite,fmri_roi,17,ABIDE_I::PITT,21,12,0.481481481,0.486111111,0.649514599,outer LOSO; original model suite
+original_10_arm_suite,fmri_roi,17,ABIDE_I::SBL,13,6,0.809523810,0.690476190,0.826388889,outer LOSO; original model suite
+original_10_arm_suite,fmri_roi,17,ABIDE_I::SDSU,29,11,0.500000000,0.547979798,0.377261567,outer LOSO; original model suite
+original_10_arm_suite,fmri_roi,17,ABIDE_I::STANFORD,27,12,0.483333333,0.483333333,0.510498775,outer LOSO; original model suite
+original_10_arm_suite,fmri_roi,17,ABIDE_I::TRINITY,36,18,0.623456790,0.666666667,0.600806214,outer LOSO; original model suite
+original_10_arm_suite,fmri_roi,17,ABIDE_I::UCLA,63,32,0.563508065,0.557963710,0.576897854,outer LOSO; original model suite
+original_10_arm_suite,fmri_roi,17,ABIDE_I::UM,103,46,0.683447750,0.699084668,0.641781907,outer LOSO; original model suite
+original_10_arm_suite,fmri_roi,17,ABIDE_I::USM,52,32,0.598437500,0.665625000,0.684287169,outer LOSO; original model suite
+original_10_arm_suite,fmri_roi,17,ABIDE_I::YALE,43,21,0.506493506,0.508658009,0.503961370,outer LOSO; original model suite
+original_10_arm_suite,full_attention,17,ABIDE_I::CALTECH,29,15,0.623809524,0.585714286,0.692396159,outer LOSO; original model suite
+original_10_arm_suite,full_attention,17,ABIDE_I::CMU,8,3,0.800000000,0.400000000,0.638888889,outer LOSO; original model suite
+original_10_arm_suite,full_attention,17,ABIDE_I::KKI,37,15,0.848484848,0.751515152,0.804815947,outer LOSO; original model suite
+original_10_arm_suite,full_attention,17,ABIDE_I::LEUVEN,44,19,0.583157895,0.544210526,0.541950968,outer LOSO; original model suite
+original_10_arm_suite,full_attention,17,ABIDE_I::MAX_MUN,30,11,0.511961722,0.535885167,0.448028108,outer LOSO; original model suite
+original_10_arm_suite,full_attention,17,ABIDE_I::NYU,145,62,0.642052079,0.594150797,0.540700937,outer LOSO; original model suite
+original_10_arm_suite,full_attention,17,ABIDE_I::OHSU,18,9,0.679012346,0.611111111,0.767003367,outer LOSO; original model suite
+original_10_arm_suite,full_attention,17,ABIDE_I::OLIN,22,12,0.858333333,0.908333333,0.835697356,outer LOSO; original model suite
+original_10_arm_suite,full_attention,17,ABIDE_I::PITT,21,12,0.675925926,0.569444444,0.785424094,outer LOSO; original model suite
+original_10_arm_suite,full_attention,17,ABIDE_I::SBL,13,6,0.785714286,0.750000000,0.815277778,outer LOSO; original model suite
+original_10_arm_suite,full_attention,17,ABIDE_I::SDSU,29,11,0.641414141,0.621212121,0.476202938,outer LOSO; original model suite
+original_10_arm_suite,full_attention,17,ABIDE_I::STANFORD,27,12,0.577777778,0.550000000,0.554456387,outer LOSO; original model suite
+original_10_arm_suite,full_attention,17,ABIDE_I::TRINITY,36,18,0.549382716,0.500000000,0.543378576,outer LOSO; original model suite
+original_10_arm_suite,full_attention,17,ABIDE_I::UCLA,63,32,0.591733871,0.558467742,0.574053112,outer LOSO; original model suite
+original_10_arm_suite,full_attention,17,ABIDE_I::UM,103,46,0.708619375,0.696605645,0.669389526,outer LOSO; original model suite
+original_10_arm_suite,full_attention,17,ABIDE_I::USM,52,32,0.700000000,0.628125000,0.748510489,outer LOSO; original model suite
+original_10_arm_suite,full_attention,17,ABIDE_I::YALE,43,21,0.595238095,0.643939394,0.679352231,outer LOSO; original model suite
+original_10_arm_suite,full_attention,41,ABIDE_I::CALTECH,29,15,0.571428571,0.519047619,0.664221197,outer LOSO; original model suite
+original_10_arm_suite,full_attention,41,ABIDE_I::CMU,8,3,0.733333333,0.566666667,0.588888889,outer LOSO; original model suite
+original_10_arm_suite,full_attention,41,ABIDE_I::KKI,37,15,0.854545455,0.830303030,0.758875545,outer LOSO; original model suite
+original_10_arm_suite,full_attention,41,ABIDE_I::LEUVEN,44,19,0.703157895,0.655789474,0.652483838,outer LOSO; original model suite
+original_10_arm_suite,full_attention,41,ABIDE_I::MAX_MUN,30,11,0.521531100,0.490430622,0.528373460,outer LOSO; original model suite
+original_10_arm_suite,full_attention,41,ABIDE_I::NYU,145,62,0.639331520,0.614166343,0.602743733,outer LOSO; original model suite
+original_10_arm_suite,full_attention,41,ABIDE_I::OHSU,18,9,0.765432099,0.555555556,0.825357921,outer LOSO; original model suite
+original_10_arm_suite,full_attention,41,ABIDE_I::OLIN,22,12,0.775000000,0.758333333,0.799146638,outer LOSO; original model suite
+original_10_arm_suite,full_attention,41,ABIDE_I::PITT,21,12,0.666666667,0.569444444,0.739685150,outer LOSO; original model suite
+original_10_arm_suite,full_attention,41,ABIDE_I::SBL,13,6,0.761904762,0.761904762,0.784259259,outer LOSO; original model suite
+original_10_arm_suite,full_attention,41,ABIDE_I::SDSU,29,11,0.530303030,0.611111111,0.476568592,outer LOSO; original model suite
+original_10_arm_suite,full_attention,41,ABIDE_I::STANFORD,27,12,0.622222222,0.575000000,0.649379070,outer LOSO; original model suite
+original_10_arm_suite,full_attention,41,ABIDE_I::TRINITY,36,18,0.583333333,0.611111111,0.585664723,outer LOSO; original model suite
+original_10_arm_suite,full_attention,41,ABIDE_I::UCLA,63,32,0.573588710,0.527217742,0.569714301,outer LOSO; original model suite
+original_10_arm_suite,full_attention,41,ABIDE_I::UM,103,46,0.715865751,0.676964150,0.712405625,outer LOSO; original model suite
+original_10_arm_suite,full_attention,41,ABIDE_I::USM,52,32,0.707812500,0.571875000,0.761561974,outer LOSO; original model suite
+original_10_arm_suite,full_attention,41,ABIDE_I::YALE,43,21,0.670995671,0.642857143,0.707017876,outer LOSO; original model suite
+original_10_arm_suite,selected_anatomy75,17,ABIDE_I::CALTECH,29,15,0.576190476,0.447619048,0.686180520,outer LOSO; original model suite
+original_10_arm_suite,selected_anatomy75,17,ABIDE_I::CMU,8,3,0.733333333,0.566666667,0.700000000,outer LOSO; original model suite
+original_10_arm_suite,selected_anatomy75,17,ABIDE_I::KKI,37,15,0.769696970,0.630303030,0.736321470,outer LOSO; original model suite
+original_10_arm_suite,selected_anatomy75,17,ABIDE_I::LEUVEN,44,19,0.669473684,0.610526316,0.631766873,outer LOSO; original model suite
+original_10_arm_suite,selected_anatomy75,17,ABIDE_I::MAX_MUN,30,11,0.555023923,0.595693780,0.558132423,outer LOSO; original model suite
+original_10_arm_suite,selected_anatomy75,17,ABIDE_I::NYU,145,62,0.729887291,0.644286825,0.677577155,outer LOSO; original model suite
+original_10_arm_suite,selected_anatomy75,17,ABIDE_I::OHSU,18,9,0.567901235,0.722222222,0.566971917,outer LOSO; original model suite
+original_10_arm_suite,selected_anatomy75,17,ABIDE_I::OLIN,22,12,0.966666667,0.875000000,0.973575036,outer LOSO; original model suite
+original_10_arm_suite,selected_anatomy75,17,ABIDE_I::PITT,21,12,0.527777778,0.597222222,0.582007372,outer LOSO; original model suite
+original_10_arm_suite,selected_anatomy75,17,ABIDE_I::SBL,13,6,0.833333333,0.750000000,0.876623377,outer LOSO; original model suite
+original_10_arm_suite,selected_anatomy75,17,ABIDE_I::SDSU,29,11,0.530303030,0.411616162,0.495288619,outer LOSO; original model suite
+original_10_arm_suite,selected_anatomy75,17,ABIDE_I::STANFORD,27,12,0.516666667,0.541666667,0.473604715,outer LOSO; original model suite
+original_10_arm_suite,selected_anatomy75,17,ABIDE_I::TRINITY,36,18,0.654320988,0.583333333,0.677043899,outer LOSO; original model suite
+original_10_arm_suite,selected_anatomy75,17,ABIDE_I::UCLA,63,32,0.640120968,0.591733871,0.616036556,outer LOSO; original model suite
+original_10_arm_suite,selected_anatomy75,17,ABIDE_I::UM,103,46,0.644546148,0.600495805,0.646743066,outer LOSO; original model suite
+original_10_arm_suite,selected_anatomy75,17,ABIDE_I::USM,52,32,0.712500000,0.631250000,0.754519903,outer LOSO; original model suite
+original_10_arm_suite,selected_anatomy75,17,ABIDE_I::YALE,43,21,0.837662338,0.666666667,0.846229237,outer LOSO; original model suite
+original_10_arm_suite,selected_attention,17,ABIDE_I::CALTECH,29,15,0.661904762,0.683333333,0.688989595,outer LOSO; original model suite
+original_10_arm_suite,selected_attention,17,ABIDE_I::CMU,8,3,0.600000000,0.500000000,0.500000000,outer LOSO; original model suite
+original_10_arm_suite,selected_attention,17,ABIDE_I::KKI,37,15,0.763636364,0.663636364,0.739907383,outer LOSO; original model suite
+original_10_arm_suite,selected_attention,17,ABIDE_I::LEUVEN,44,19,0.745263158,0.676842105,0.694835853,outer LOSO; original model suite
+original_10_arm_suite,selected_attention,17,ABIDE_I::MAX_MUN,30,11,0.516746411,0.523923445,0.511816704,outer LOSO; original model suite
+original_10_arm_suite,selected_attention,17,ABIDE_I::NYU,145,62,0.671589584,0.630003887,0.637014399,outer LOSO; original model suite
+original_10_arm_suite,selected_attention,17,ABIDE_I::OHSU,18,9,0.543209877,0.500000000,0.663580247,outer LOSO; original model suite
+original_10_arm_suite,selected_attention,17,ABIDE_I::OLIN,22,12,0.883333333,0.866666667,0.905778195,outer LOSO; original model suite
+original_10_arm_suite,selected_attention,17,ABIDE_I::PITT,21,12,0.370370370,0.375000000,0.587364021,outer LOSO; original model suite
+original_10_arm_suite,selected_attention,17,ABIDE_I::SBL,13,6,0.761904762,0.690476190,0.842592593,outer LOSO; original model suite
+original_10_arm_suite,selected_attention,17,ABIDE_I::SDSU,29,11,0.489898990,0.522727273,0.392370920,outer LOSO; original model suite
+original_10_arm_suite,selected_attention,17,ABIDE_I::STANFORD,27,12,0.622222222,0.575000000,0.570202098,outer LOSO; original model suite
+original_10_arm_suite,selected_attention,17,ABIDE_I::TRINITY,36,18,0.740740741,0.750000000,0.654507911,outer LOSO; original model suite
+original_10_arm_suite,selected_attention,17,ABIDE_I::UCLA,63,32,0.571572581,0.524697581,0.549501632,outer LOSO; original model suite
+original_10_arm_suite,selected_attention,17,ABIDE_I::UM,103,46,0.684210526,0.651029748,0.618074746,outer LOSO; original model suite
+original_10_arm_suite,selected_attention,17,ABIDE_I::USM,52,32,0.754687500,0.700000000,0.825797753,outer LOSO; original model suite
+original_10_arm_suite,selected_attention,17,ABIDE_I::YALE,43,21,0.645021645,0.625541126,0.728417994,outer LOSO; original model suite
+original_10_arm_suite,selected_attention,41,ABIDE_I::CALTECH,29,15,0.657142857,0.650000000,0.715178081,outer LOSO; original model suite
+original_10_arm_suite,selected_attention,41,ABIDE_I::CMU,8,3,0.866666667,0.733333333,0.805555556,outer LOSO; original model suite
+original_10_arm_suite,selected_attention,41,ABIDE_I::KKI,37,15,0.800000000,0.765151515,0.653639158,outer LOSO; original model suite
+original_10_arm_suite,selected_attention,41,ABIDE_I::LEUVEN,44,19,0.770526316,0.749473684,0.711146800,outer LOSO; original model suite
+original_10_arm_suite,selected_attention,41,ABIDE_I::MAX_MUN,30,11,0.578947368,0.523923445,0.612025082,outer LOSO; original model suite
+original_10_arm_suite,selected_attention,41,ABIDE_I::NYU,145,62,0.686746988,0.573746599,0.621394376,outer LOSO; original model suite
+original_10_arm_suite,selected_attention,41,ABIDE_I::OHSU,18,9,0.469135802,0.555555556,0.559847923,outer LOSO; original model suite
+original_10_arm_suite,selected_attention,41,ABIDE_I::OLIN,22,12,0.733333333,0.733333333,0.679544938,outer LOSO; original model suite
+original_10_arm_suite,selected_attention,41,ABIDE_I::PITT,21,12,0.416666667,0.472222222,0.572803776,outer LOSO; original model suite
+original_10_arm_suite,selected_attention,41,ABIDE_I::SBL,13,6,0.619047619,0.678571429,0.757478632,outer LOSO; original model suite
+original_10_arm_suite,selected_attention,41,ABIDE_I::SDSU,29,11,0.414141414,0.431818182,0.405714920,outer LOSO; original model suite
+original_10_arm_suite,selected_attention,41,ABIDE_I::STANFORD,27,12,0.605555556,0.641666667,0.503916910,outer LOSO; original model suite
+original_10_arm_suite,selected_attention,41,ABIDE_I::TRINITY,36,18,0.580246914,0.555555556,0.575348250,outer LOSO; original model suite
+original_10_arm_suite,selected_attention,41,ABIDE_I::UCLA,63,32,0.519153226,0.508568548,0.517654987,outer LOSO; original model suite
+original_10_arm_suite,selected_attention,41,ABIDE_I::UM,103,46,0.712051869,0.690312738,0.668096132,outer LOSO; original model suite
+original_10_arm_suite,selected_attention,41,ABIDE_I::USM,52,32,0.775000000,0.756250000,0.857499250,outer LOSO; original model suite
+original_10_arm_suite,selected_attention,41,ABIDE_I::YALE,43,21,0.629870130,0.576839827,0.637229626,outer LOSO; original model suite
+original_10_arm_suite,selected_equal,17,ABIDE_I::CALTECH,29,15,0.638095238,0.583333333,0.704919613,outer LOSO; original model suite
+original_10_arm_suite,selected_equal,17,ABIDE_I::CMU,8,3,0.800000000,0.400000000,0.638888889,outer LOSO; original model suite
+original_10_arm_suite,selected_equal,17,ABIDE_I::KKI,37,15,0.818181818,0.663636364,0.791142094,outer LOSO; original model suite
+original_10_arm_suite,selected_equal,17,ABIDE_I::LEUVEN,44,19,0.698947368,0.610526316,0.612282067,outer LOSO; original model suite
+original_10_arm_suite,selected_equal,17,ABIDE_I::MAX_MUN,30,11,0.564593301,0.576555024,0.585969619,outer LOSO; original model suite
+original_10_arm_suite,selected_equal,17,ABIDE_I::NYU,145,62,0.734551108,0.640011660,0.675457552,outer LOSO; original model suite
+original_10_arm_suite,selected_equal,17,ABIDE_I::OHSU,18,9,0.555555556,0.500000000,0.612393162,outer LOSO; original model suite
+original_10_arm_suite,selected_equal,17,ABIDE_I::OLIN,22,12,0.925000000,0.858333333,0.941472416,outer LOSO; original model suite
+original_10_arm_suite,selected_equal,17,ABIDE_I::PITT,21,12,0.509259259,0.430555556,0.599587014,outer LOSO; original model suite
+original_10_arm_suite,selected_equal,17,ABIDE_I::SBL,13,6,0.785714286,0.833333333,0.854166667,outer LOSO; original model suite
+original_10_arm_suite,selected_equal,17,ABIDE_I::SDSU,29,11,0.545454545,0.494949495,0.461001616,outer LOSO; original model suite
+original_10_arm_suite,selected_equal,17,ABIDE_I::STANFORD,27,12,0.655555556,0.650000000,0.558354113,outer LOSO; original model suite
+original_10_arm_suite,selected_equal,17,ABIDE_I::TRINITY,36,18,0.700617284,0.638888889,0.698421863,outer LOSO; original model suite
+original_10_arm_suite,selected_equal,17,ABIDE_I::UCLA,63,32,0.630040323,0.605342742,0.623981788,outer LOSO; original model suite
+original_10_arm_suite,selected_equal,17,ABIDE_I::UM,103,46,0.688405797,0.620518688,0.676102652,outer LOSO; original model suite
+original_10_arm_suite,selected_equal,17,ABIDE_I::USM,52,32,0.718750000,0.628125000,0.771717752,outer LOSO; original model suite
+original_10_arm_suite,selected_equal,17,ABIDE_I::YALE,43,21,0.809523810,0.669913420,0.824678694,outer LOSO; original model suite
+original_10_arm_suite,selected_gate,17,ABIDE_I::CALTECH,29,15,0.614285714,0.480952381,0.686060026,outer LOSO; original model suite
+original_10_arm_suite,selected_gate,17,ABIDE_I::CMU,8,3,0.800000000,0.400000000,0.638888889,outer LOSO; original model suite
+original_10_arm_suite,selected_gate,17,ABIDE_I::KKI,37,15,0.784848485,0.630303030,0.746143294,outer LOSO; original model suite
+original_10_arm_suite,selected_gate,17,ABIDE_I::LEUVEN,44,19,0.665263158,0.610526316,0.632114377,outer LOSO; original model suite
+original_10_arm_suite,selected_gate,17,ABIDE_I::MAX_MUN,30,11,0.569377990,0.648325359,0.562678991,outer LOSO; original model suite
+original_10_arm_suite,selected_gate,17,ABIDE_I::NYU,145,62,0.732413525,0.642246405,0.690068934,outer LOSO; original model suite
+original_10_arm_suite,selected_gate,17,ABIDE_I::OHSU,18,9,0.567901235,0.555555556,0.566971917,outer LOSO; original model suite
+original_10_arm_suite,selected_gate,17,ABIDE_I::OLIN,22,12,0.983333333,0.875000000,0.988095238,outer LOSO; original model suite
+original_10_arm_suite,selected_gate,17,ABIDE_I::PITT,21,12,0.518518519,0.513888889,0.608774899,outer LOSO; original model suite
+original_10_arm_suite,selected_gate,17,ABIDE_I::SBL,13,6,0.833333333,0.833333333,0.888888889,outer LOSO; original model suite
+original_10_arm_suite,selected_gate,17,ABIDE_I::SDSU,29,11,0.560606061,0.484848485,0.487396071,outer LOSO; original model suite
+original_10_arm_suite,selected_gate,17,ABIDE_I::STANFORD,27,12,0.616666667,0.608333333,0.543407431,outer LOSO; original model suite
+original_10_arm_suite,selected_gate,17,ABIDE_I::TRINITY,36,18,0.651234568,0.611111111,0.671880157,outer LOSO; original model suite
+original_10_arm_suite,selected_gate,17,ABIDE_I::UCLA,63,32,0.630040323,0.606350806,0.613527218,outer LOSO; original model suite
+original_10_arm_suite,selected_gate,17,ABIDE_I::UM,103,46,0.682303585,0.639778795,0.680313718,outer LOSO; original model suite
+original_10_arm_suite,selected_gate,17,ABIDE_I::USM,52,32,0.740625000,0.690625000,0.780385000,outer LOSO; original model suite
+original_10_arm_suite,selected_gate,17,ABIDE_I::YALE,43,21,0.813852814,0.642857143,0.817326462,outer LOSO; original model suite
+original_10_arm_suite,smri_stable,17,ABIDE_I::CALTECH,29,15,0.514285714,0.552380952,0.684320230,outer LOSO; original model suite
+original_10_arm_suite,smri_stable,17,ABIDE_I::CMU,8,3,0.666666667,0.666666667,0.666666667,outer LOSO; original model suite
+original_10_arm_suite,smri_stable,17,ABIDE_I::KKI,37,15,0.690909091,0.583333333,0.616578046,outer LOSO; original model suite
+original_10_arm_suite,smri_stable,17,ABIDE_I::LEUVEN,44,19,0.600000000,0.557894737,0.574817882,outer LOSO; original model suite
+original_10_arm_suite,smri_stable,17,ABIDE_I::MAX_MUN,30,11,0.521531100,0.516746411,0.532581404,outer LOSO; original model suite
+original_10_arm_suite,smri_stable,17,ABIDE_I::NYU,145,62,0.672366887,0.618150019,0.604048180,outer LOSO; original model suite
+original_10_arm_suite,smri_stable,17,ABIDE_I::OHSU,18,9,0.617283951,0.555555556,0.633273208,outer LOSO; original model suite
+original_10_arm_suite,smri_stable,17,ABIDE_I::OLIN,22,12,0.825000000,0.783333333,0.868968763,outer LOSO; original model suite
+original_10_arm_suite,smri_stable,17,ABIDE_I::PITT,21,12,0.648148148,0.694444444,0.646487336,outer LOSO; original model suite
+original_10_arm_suite,smri_stable,17,ABIDE_I::SBL,13,6,0.857142857,0.595238095,0.800000000,outer LOSO; original model suite
+original_10_arm_suite,smri_stable,17,ABIDE_I::SDSU,29,11,0.530303030,0.439393939,0.485083757,outer LOSO; original model suite
+original_10_arm_suite,smri_stable,17,ABIDE_I::STANFORD,27,12,0.316666667,0.391666667,0.368423153,outer LOSO; original model suite
+original_10_arm_suite,smri_stable,17,ABIDE_I::TRINITY,36,18,0.558641975,0.583333333,0.628594763,outer LOSO; original model suite
+original_10_arm_suite,smri_stable,17,ABIDE_I::UCLA,63,32,0.591733871,0.512600806,0.591546639,outer LOSO; original model suite
+original_10_arm_suite,smri_stable,17,ABIDE_I::UM,103,46,0.579328757,0.545766590,0.559230558,outer LOSO; original model suite
+original_10_arm_suite,smri_stable,17,ABIDE_I::USM,52,32,0.600000000,0.528125000,0.699028641,outer LOSO; original model suite
+original_10_arm_suite,smri_stable,17,ABIDE_I::YALE,43,21,0.785714286,0.619047619,0.803844733,outer LOSO; original model suite
+original_10_arm_suite,v4_anatomy75,17,ABIDE_I::CALTECH,29,15,0.571428571,0.519047619,0.706459100,outer LOSO; original model suite
+original_10_arm_suite,v4_anatomy75,17,ABIDE_I::CMU,8,3,0.800000000,0.500000000,0.638888889,outer LOSO; original model suite
+original_10_arm_suite,v4_anatomy75,17,ABIDE_I::KKI,37,15,0.857575758,0.693939394,0.803129050,outer LOSO; original model suite
+original_10_arm_suite,v4_anatomy75,17,ABIDE_I::LEUVEN,44,19,0.736842105,0.650526316,0.737537774,outer LOSO; original model suite
+original_10_arm_suite,v4_anatomy75,17,ABIDE_I::MAX_MUN,30,11,0.473684211,0.516746411,0.438267179,outer LOSO; original model suite
+original_10_arm_suite,v4_anatomy75,17,ABIDE_I::NYU,145,62,0.741546832,0.636416634,0.689352774,outer LOSO; original model suite
+original_10_arm_suite,v4_anatomy75,17,ABIDE_I::OHSU,18,9,0.493827160,0.500000000,0.528325741,outer LOSO; original model suite
+original_10_arm_suite,v4_anatomy75,17,ABIDE_I::OLIN,22,12,0.925000000,0.866666667,0.956477733,outer LOSO; original model suite
+original_10_arm_suite,v4_anatomy75,17,ABIDE_I::PITT,21,12,0.648148148,0.638888889,0.752934912,outer LOSO; original model suite
+original_10_arm_suite,v4_anatomy75,17,ABIDE_I::SBL,13,6,0.833333333,0.583333333,0.876623377,outer LOSO; original model suite
+original_10_arm_suite,v4_anatomy75,17,ABIDE_I::SDSU,29,11,0.454545455,0.431818182,0.436300995,outer LOSO; original model suite
+original_10_arm_suite,v4_anatomy75,17,ABIDE_I::STANFORD,27,12,0.427777778,0.483333333,0.490633154,outer LOSO; original model suite
+original_10_arm_suite,v4_anatomy75,17,ABIDE_I::TRINITY,36,18,0.654320988,0.555555556,0.584075628,outer LOSO; original model suite
+original_10_arm_suite,v4_anatomy75,17,ABIDE_I::UCLA,63,32,0.660282258,0.544354839,0.636177699,outer LOSO; original model suite
+original_10_arm_suite,v4_anatomy75,17,ABIDE_I::UM,103,46,0.704424104,0.618039664,0.687051861,outer LOSO; original model suite
+original_10_arm_suite,v4_anatomy75,17,ABIDE_I::USM,52,32,0.745312500,0.703125000,0.781669484,outer LOSO; original model suite
+original_10_arm_suite,v4_anatomy75,17,ABIDE_I::YALE,43,21,0.753246753,0.619047619,0.803037635,outer LOSO; original model suite
+original_10_arm_suite,v4_pca128,17,ABIDE_I::CALTECH,29,15,0.619047619,0.616666667,0.683219373,outer LOSO; original model suite
+original_10_arm_suite,v4_pca128,17,ABIDE_I::CMU,8,3,0.800000000,0.500000000,0.638888889,outer LOSO; original model suite
+original_10_arm_suite,v4_pca128,17,ABIDE_I::KKI,37,15,0.872727273,0.818181818,0.739236027,outer LOSO; original model suite
+original_10_arm_suite,v4_pca128,17,ABIDE_I::LEUVEN,44,19,0.696842105,0.604210526,0.642009045,outer LOSO; original model suite
+original_10_arm_suite,v4_pca128,17,ABIDE_I::MAX_MUN,30,11,0.559808612,0.569377990,0.469512079,outer LOSO; original model suite
+original_10_arm_suite,v4_pca128,17,ABIDE_I::NYU,145,62,0.694908667,0.636416634,0.606161055,outer LOSO; original model suite
+original_10_arm_suite,v4_pca128,17,ABIDE_I::OHSU,18,9,0.555555556,0.555555556,0.625569801,outer LOSO; original model suite
+original_10_arm_suite,v4_pca128,17,ABIDE_I::OLIN,22,12,0.875000000,0.816666667,0.889941254,outer LOSO; original model suite
+original_10_arm_suite,v4_pca128,17,ABIDE_I::PITT,21,12,0.629629630,0.597222222,0.735071851,outer LOSO; original model suite
+original_10_arm_suite,v4_pca128,17,ABIDE_I::SBL,13,6,0.738095238,0.666666667,0.775168350,outer LOSO; original model suite
+original_10_arm_suite,v4_pca128,17,ABIDE_I::SDSU,29,11,0.530303030,0.613636364,0.426784607,outer LOSO; original model suite
+original_10_arm_suite,v4_pca128,17,ABIDE_I::STANFORD,27,12,0.561111111,0.583333333,0.520161976,outer LOSO; original model suite
+original_10_arm_suite,v4_pca128,17,ABIDE_I::TRINITY,36,18,0.592592593,0.555555556,0.530438630,outer LOSO; original model suite
+original_10_arm_suite,v4_pca128,17,ABIDE_I::UCLA,63,32,0.601814516,0.526713710,0.561268404,outer LOSO; original model suite
+original_10_arm_suite,v4_pca128,17,ABIDE_I::UM,103,46,0.741418764,0.705758963,0.736285393,outer LOSO; original model suite
+original_10_arm_suite,v4_pca128,17,ABIDE_I::USM,52,32,0.735937500,0.671875000,0.782287659,outer LOSO; original model suite
+original_10_arm_suite,v4_pca128,17,ABIDE_I::YALE,43,21,0.703463203,0.620129870,0.724131355,outer LOSO; original model suite
+retrospective_ensemble_comparisons,selected_equal_prior,deterministic_derived,ABIDE_I::CALTECH,29,15,0.638095238,0.583333333,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,selected_equal_prior,deterministic_derived,ABIDE_I::CMU,8,3,0.800000000,0.400000000,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,selected_equal_prior,deterministic_derived,ABIDE_I::KKI,37,15,0.818181818,0.663636364,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,selected_equal_prior,deterministic_derived,ABIDE_I::LEUVEN,44,19,0.698947368,0.610526316,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,selected_equal_prior,deterministic_derived,ABIDE_I::MAX_MUN,30,11,0.564593301,0.576555024,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,selected_equal_prior,deterministic_derived,ABIDE_I::NYU,145,62,0.734551108,0.640011660,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,selected_equal_prior,deterministic_derived,ABIDE_I::OHSU,18,9,0.555555556,0.500000000,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,selected_equal_prior,deterministic_derived,ABIDE_I::OLIN,22,12,0.925000000,0.858333333,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,selected_equal_prior,deterministic_derived,ABIDE_I::PITT,21,12,0.509259259,0.430555556,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,selected_equal_prior,deterministic_derived,ABIDE_I::SBL,13,6,0.785714286,0.833333333,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,selected_equal_prior,deterministic_derived,ABIDE_I::SDSU,29,11,0.545454545,0.494949495,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,selected_equal_prior,deterministic_derived,ABIDE_I::STANFORD,27,12,0.655555556,0.650000000,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,selected_equal_prior,deterministic_derived,ABIDE_I::TRINITY,36,18,0.700617284,0.638888889,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,selected_equal_prior,deterministic_derived,ABIDE_I::UCLA,63,32,0.630040323,0.605342742,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,selected_equal_prior,deterministic_derived,ABIDE_I::UM,103,46,0.688405797,0.620518688,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,selected_equal_prior,deterministic_derived,ABIDE_I::USM,52,32,0.718750000,0.628125000,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,selected_equal_prior,deterministic_derived,ABIDE_I::YALE,43,21,0.809523810,0.669913420,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,selected_gate_prior,deterministic_derived,ABIDE_I::CALTECH,29,15,0.614285714,0.480952381,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,selected_gate_prior,deterministic_derived,ABIDE_I::CMU,8,3,0.800000000,0.400000000,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,selected_gate_prior,deterministic_derived,ABIDE_I::KKI,37,15,0.784848485,0.630303030,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,selected_gate_prior,deterministic_derived,ABIDE_I::LEUVEN,44,19,0.665263158,0.610526316,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,selected_gate_prior,deterministic_derived,ABIDE_I::MAX_MUN,30,11,0.569377990,0.648325359,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,selected_gate_prior,deterministic_derived,ABIDE_I::NYU,145,62,0.732413525,0.642246405,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,selected_gate_prior,deterministic_derived,ABIDE_I::OHSU,18,9,0.567901235,0.555555556,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,selected_gate_prior,deterministic_derived,ABIDE_I::OLIN,22,12,0.983333333,0.875000000,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,selected_gate_prior,deterministic_derived,ABIDE_I::PITT,21,12,0.518518519,0.513888889,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,selected_gate_prior,deterministic_derived,ABIDE_I::SBL,13,6,0.833333333,0.833333333,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,selected_gate_prior,deterministic_derived,ABIDE_I::SDSU,29,11,0.560606061,0.484848485,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,selected_gate_prior,deterministic_derived,ABIDE_I::STANFORD,27,12,0.616666667,0.608333333,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,selected_gate_prior,deterministic_derived,ABIDE_I::TRINITY,36,18,0.651234568,0.611111111,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,selected_gate_prior,deterministic_derived,ABIDE_I::UCLA,63,32,0.630040323,0.606350806,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,selected_gate_prior,deterministic_derived,ABIDE_I::UM,103,46,0.682303585,0.639778795,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,selected_gate_prior,deterministic_derived,ABIDE_I::USM,52,32,0.740625000,0.690625000,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,selected_gate_prior,deterministic_derived,ABIDE_I::YALE,43,21,0.813852814,0.642857143,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,pca128_prior,deterministic_derived,ABIDE_I::CALTECH,29,15,0.619047619,0.616666667,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,pca128_prior,deterministic_derived,ABIDE_I::CMU,8,3,0.800000000,0.500000000,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,pca128_prior,deterministic_derived,ABIDE_I::KKI,37,15,0.872727273,0.818181818,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,pca128_prior,deterministic_derived,ABIDE_I::LEUVEN,44,19,0.696842105,0.604210526,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,pca128_prior,deterministic_derived,ABIDE_I::MAX_MUN,30,11,0.559808612,0.569377990,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,pca128_prior,deterministic_derived,ABIDE_I::NYU,145,62,0.694908667,0.636416634,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,pca128_prior,deterministic_derived,ABIDE_I::OHSU,18,9,0.555555556,0.555555556,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,pca128_prior,deterministic_derived,ABIDE_I::OLIN,22,12,0.875000000,0.816666667,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,pca128_prior,deterministic_derived,ABIDE_I::PITT,21,12,0.629629630,0.597222222,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,pca128_prior,deterministic_derived,ABIDE_I::SBL,13,6,0.738095238,0.666666667,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,pca128_prior,deterministic_derived,ABIDE_I::SDSU,29,11,0.530303030,0.613636364,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,pca128_prior,deterministic_derived,ABIDE_I::STANFORD,27,12,0.561111111,0.583333333,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,pca128_prior,deterministic_derived,ABIDE_I::TRINITY,36,18,0.592592593,0.555555556,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,pca128_prior,deterministic_derived,ABIDE_I::UCLA,63,32,0.601814516,0.526713710,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,pca128_prior,deterministic_derived,ABIDE_I::UM,103,46,0.741418764,0.705758963,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,pca128_prior,deterministic_derived,ABIDE_I::USM,52,32,0.735937500,0.671875000,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,pca128_prior,deterministic_derived,ABIDE_I::YALE,43,21,0.703463203,0.620129870,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_gate_half,deterministic_derived,ABIDE_I::CALTECH,29,15,0.604761905,0.547619048,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_gate_half,deterministic_derived,ABIDE_I::CMU,8,3,0.800000000,0.400000000,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_gate_half,deterministic_derived,ABIDE_I::KKI,37,15,0.812121212,0.663636364,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_gate_half,deterministic_derived,ABIDE_I::LEUVEN,44,19,0.701052632,0.656842105,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_gate_half,deterministic_derived,ABIDE_I::MAX_MUN,30,11,0.559808612,0.576555024,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_gate_half,deterministic_derived,ABIDE_I::NYU,145,62,0.738826273,0.684415080,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_gate_half,deterministic_derived,ABIDE_I::OHSU,18,9,0.555555556,0.500000000,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_gate_half,deterministic_derived,ABIDE_I::OLIN,22,12,0.958333333,0.916666667,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_gate_half,deterministic_derived,ABIDE_I::PITT,21,12,0.518518519,0.458333333,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_gate_half,deterministic_derived,ABIDE_I::SBL,13,6,0.785714286,0.833333333,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_gate_half,deterministic_derived,ABIDE_I::SDSU,29,11,0.545454545,0.540404040,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_gate_half,deterministic_derived,ABIDE_I::STANFORD,27,12,0.633333333,0.650000000,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_gate_half,deterministic_derived,ABIDE_I::TRINITY,36,18,0.679012346,0.666666667,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_gate_half,deterministic_derived,ABIDE_I::UCLA,63,32,0.629032258,0.621471774,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_gate_half,deterministic_derived,ABIDE_I::UM,103,46,0.687261632,0.613844394,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_gate_half,deterministic_derived,ABIDE_I::USM,52,32,0.731250000,0.700000000,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_gate_half,deterministic_derived,ABIDE_I::YALE,43,21,0.818181818,0.643939394,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_pca_half,deterministic_derived,ABIDE_I::CALTECH,29,15,0.623809524,0.547619048,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_pca_half,deterministic_derived,ABIDE_I::CMU,8,3,0.800000000,0.500000000,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_pca_half,deterministic_derived,ABIDE_I::KKI,37,15,0.854545455,0.730303030,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_pca_half,deterministic_derived,ABIDE_I::LEUVEN,44,19,0.713684211,0.584210526,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_pca_half,deterministic_derived,ABIDE_I::MAX_MUN,30,11,0.578947368,0.576555024,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_pca_half,deterministic_derived,ABIDE_I::NYU,145,62,0.733190828,0.656335017,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_pca_half,deterministic_derived,ABIDE_I::OHSU,18,9,0.567901235,0.555555556,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_pca_half,deterministic_derived,ABIDE_I::OLIN,22,12,0.950000000,0.866666667,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_pca_half,deterministic_derived,ABIDE_I::PITT,21,12,0.592592593,0.500000000,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_pca_half,deterministic_derived,ABIDE_I::SBL,13,6,0.761904762,0.833333333,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_pca_half,deterministic_derived,ABIDE_I::SDSU,29,11,0.494949495,0.467171717,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_pca_half,deterministic_derived,ABIDE_I::STANFORD,27,12,0.633333333,0.616666667,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_pca_half,deterministic_derived,ABIDE_I::TRINITY,36,18,0.666666667,0.611111111,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_pca_half,deterministic_derived,ABIDE_I::UCLA,63,32,0.629032258,0.574092742,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_pca_half,deterministic_derived,ABIDE_I::UM,103,46,0.723493516,0.651029748,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_pca_half,deterministic_derived,ABIDE_I::USM,52,32,0.745312500,0.678125000,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_pca_half,deterministic_derived,ABIDE_I::YALE,43,21,0.803030303,0.666666667,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_pca_75_25,deterministic_derived,ABIDE_I::CALTECH,29,15,0.628571429,0.547619048,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_pca_75_25,deterministic_derived,ABIDE_I::CMU,8,3,0.800000000,0.400000000,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_pca_75_25,deterministic_derived,ABIDE_I::KKI,37,15,0.842424242,0.663636364,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_pca_75_25,deterministic_derived,ABIDE_I::LEUVEN,44,19,0.720000000,0.610526316,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_pca_75_25,deterministic_derived,ABIDE_I::MAX_MUN,30,11,0.593301435,0.576555024,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_pca_75_25,deterministic_derived,ABIDE_I::NYU,145,62,0.735328410,0.652157015,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_pca_75_25,deterministic_derived,ABIDE_I::OHSU,18,9,0.543209877,0.500000000,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_pca_75_25,deterministic_derived,ABIDE_I::OLIN,22,12,0.950000000,0.858333333,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_pca_75_25,deterministic_derived,ABIDE_I::PITT,21,12,0.518518519,0.458333333,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_pca_75_25,deterministic_derived,ABIDE_I::SBL,13,6,0.785714286,0.833333333,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_pca_75_25,deterministic_derived,ABIDE_I::SDSU,29,11,0.525252525,0.540404040,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_pca_75_25,deterministic_derived,ABIDE_I::STANFORD,27,12,0.622222222,0.650000000,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_pca_75_25,deterministic_derived,ABIDE_I::TRINITY,36,18,0.691358025,0.638888889,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_pca_75_25,deterministic_derived,ABIDE_I::UCLA,63,32,0.627016129,0.589717742,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_pca_75_25,deterministic_derived,ABIDE_I::UM,103,46,0.707475210,0.622616323,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_pca_75_25,deterministic_derived,ABIDE_I::USM,52,32,0.729687500,0.637500000,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_pca_75_25,deterministic_derived,ABIDE_I::YALE,43,21,0.813852814,0.643939394,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_gate_pca_50_25_25,deterministic_derived,ABIDE_I::CALTECH,29,15,0.614285714,0.514285714,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_gate_pca_50_25_25,deterministic_derived,ABIDE_I::CMU,8,3,0.800000000,0.400000000,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_gate_pca_50_25_25,deterministic_derived,ABIDE_I::KKI,37,15,0.836363636,0.663636364,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_gate_pca_50_25_25,deterministic_derived,ABIDE_I::LEUVEN,44,19,0.717894737,0.610526316,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_gate_pca_50_25_25,deterministic_derived,ABIDE_I::MAX_MUN,30,11,0.588516746,0.576555024,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_gate_pca_50_25_25,deterministic_derived,ABIDE_I::NYU,145,62,0.734939759,0.650213758,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_gate_pca_50_25_25,deterministic_derived,ABIDE_I::OHSU,18,9,0.518518519,0.555555556,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_gate_pca_50_25_25,deterministic_derived,ABIDE_I::OLIN,22,12,0.958333333,0.866666667,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_gate_pca_50_25_25,deterministic_derived,ABIDE_I::PITT,21,12,0.527777778,0.458333333,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_gate_pca_50_25_25,deterministic_derived,ABIDE_I::SBL,13,6,0.785714286,0.833333333,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_gate_pca_50_25_25,deterministic_derived,ABIDE_I::SDSU,29,11,0.530303030,0.512626263,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_gate_pca_50_25_25,deterministic_derived,ABIDE_I::STANFORD,27,12,0.627777778,0.608333333,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_gate_pca_50_25_25,deterministic_derived,ABIDE_I::TRINITY,36,18,0.682098765,0.638888889,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_gate_pca_50_25_25,deterministic_derived,ABIDE_I::UCLA,63,32,0.629032258,0.605846774,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_gate_pca_50_25_25,deterministic_derived,ABIDE_I::UM,103,46,0.703661327,0.622616323,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_gate_pca_50_25_25,deterministic_derived,ABIDE_I::USM,52,32,0.745312500,0.659375000,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_selected_gate_pca_50_25_25,deterministic_derived,ABIDE_I::YALE,43,21,0.822510823,0.643939394,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_gate_pca_half,deterministic_derived,ABIDE_I::CALTECH,29,15,0.600000000,0.547619048,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_gate_pca_half,deterministic_derived,ABIDE_I::CMU,8,3,0.800000000,0.500000000,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_gate_pca_half,deterministic_derived,ABIDE_I::KKI,37,15,0.833333333,0.818181818,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_gate_pca_half,deterministic_derived,ABIDE_I::LEUVEN,44,19,0.698947368,0.604210526,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_gate_pca_half,deterministic_derived,ABIDE_I::MAX_MUN,30,11,0.574162679,0.550239234,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_gate_pca_half,deterministic_derived,ABIDE_I::NYU,145,62,0.721531286,0.642343568,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_gate_pca_half,deterministic_derived,ABIDE_I::OHSU,18,9,0.592592593,0.500000000,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_gate_pca_half,deterministic_derived,ABIDE_I::OLIN,22,12,0.983333333,0.866666667,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_gate_pca_half,deterministic_derived,ABIDE_I::PITT,21,12,0.601851852,0.500000000,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_gate_pca_half,deterministic_derived,ABIDE_I::SBL,13,6,0.833333333,0.750000000,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_gate_pca_half,deterministic_derived,ABIDE_I::SDSU,29,11,0.530303030,0.467171717,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_gate_pca_half,deterministic_derived,ABIDE_I::STANFORD,27,12,0.616666667,0.616666667,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_gate_pca_half,deterministic_derived,ABIDE_I::TRINITY,36,18,0.651234568,0.500000000,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_gate_pca_half,deterministic_derived,ABIDE_I::UCLA,63,32,0.631048387,0.590725806,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_gate_pca_half,deterministic_derived,ABIDE_I::UM,103,46,0.714340198,0.642257818,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_gate_pca_half,deterministic_derived,ABIDE_I::USM,52,32,0.770312500,0.740625000,,retrospectively compared on previously inspected held-site predictions
+retrospective_ensemble_comparisons,blend_gate_pca_half,deterministic_derived,ABIDE_I::YALE,43,21,0.785714286,0.666666667,,retrospectively compared on previously inspected held-site predictions
+subsequent_nested_search,nested_primary,17,ABIDE_I::CALTECH,29,15,0.600000000,0.547619048,,training-fold inner tuning; historically explored ABIDE-I cohort
+subsequent_nested_search,nested_primary,17,ABIDE_I::CMU,8,3,0.600000000,0.400000000,,training-fold inner tuning; historically explored ABIDE-I cohort
+subsequent_nested_search,nested_primary,17,ABIDE_I::KKI,37,15,0.787878788,0.709090909,,training-fold inner tuning; historically explored ABIDE-I cohort
+subsequent_nested_search,nested_primary,17,ABIDE_I::LEUVEN,44,19,0.694736842,0.610526316,,training-fold inner tuning; historically explored ABIDE-I cohort
+subsequent_nested_search,nested_primary,17,ABIDE_I::MAX_MUN,30,11,0.492822967,0.550239234,,training-fold inner tuning; historically explored ABIDE-I cohort
+subsequent_nested_search,nested_primary,17,ABIDE_I::NYU,145,62,0.733190828,0.633987563,,training-fold inner tuning; historically explored ABIDE-I cohort
+subsequent_nested_search,nested_primary,17,ABIDE_I::OHSU,18,9,0.604938272,0.611111111,,training-fold inner tuning; historically explored ABIDE-I cohort
+subsequent_nested_search,nested_primary,17,ABIDE_I::OLIN,22,12,0.908333333,0.766666667,,training-fold inner tuning; historically explored ABIDE-I cohort
+subsequent_nested_search,nested_primary,17,ABIDE_I::PITT,21,12,0.518518519,0.486111111,,training-fold inner tuning; historically explored ABIDE-I cohort
+subsequent_nested_search,nested_primary,17,ABIDE_I::SBL,13,6,0.833333333,0.678571429,,training-fold inner tuning; historically explored ABIDE-I cohort
+subsequent_nested_search,nested_primary,17,ABIDE_I::SDSU,29,11,0.479797980,0.484848485,,training-fold inner tuning; historically explored ABIDE-I cohort
+subsequent_nested_search,nested_primary,17,ABIDE_I::STANFORD,27,12,0.633333333,0.675000000,,training-fold inner tuning; historically explored ABIDE-I cohort
+subsequent_nested_search,nested_primary,17,ABIDE_I::TRINITY,36,18,0.703703704,0.722222222,,training-fold inner tuning; historically explored ABIDE-I cohort
+subsequent_nested_search,nested_primary,17,ABIDE_I::UCLA,63,32,0.581653226,0.525705645,,training-fold inner tuning; historically explored ABIDE-I cohort
+subsequent_nested_search,nested_primary,17,ABIDE_I::UM,103,46,0.709000763,0.622616323,,training-fold inner tuning; historically explored ABIDE-I cohort
+subsequent_nested_search,nested_primary,17,ABIDE_I::USM,52,32,0.764062500,0.765625000,,training-fold inner tuning; historically explored ABIDE-I cohort
+subsequent_nested_search,nested_primary,17,ABIDE_I::YALE,43,21,0.718614719,0.668831169,,training-fold inner tuning; historically explored ABIDE-I cohort
+subsequent_nested_search,nested_primary,41,ABIDE_I::CALTECH,29,15,0.633333333,0.616666667,,training-fold inner tuning; historically explored ABIDE-I cohort
+subsequent_nested_search,nested_primary,41,ABIDE_I::CMU,8,3,0.600000000,0.400000000,,training-fold inner tuning; historically explored ABIDE-I cohort
+subsequent_nested_search,nested_primary,41,ABIDE_I::KKI,37,15,0.836363636,0.742424242,,training-fold inner tuning; historically explored ABIDE-I cohort
+subsequent_nested_search,nested_primary,41,ABIDE_I::LEUVEN,44,19,0.736842105,0.550526316,,training-fold inner tuning; historically explored ABIDE-I cohort
+subsequent_nested_search,nested_primary,41,ABIDE_I::MAX_MUN,30,11,0.483253589,0.471291866,,training-fold inner tuning; historically explored ABIDE-I cohort
+subsequent_nested_search,nested_primary,41,ABIDE_I::NYU,145,62,0.724251846,0.632044306,,training-fold inner tuning; historically explored ABIDE-I cohort
+subsequent_nested_search,nested_primary,41,ABIDE_I::OHSU,18,9,0.481481481,0.555555556,,training-fold inner tuning; historically explored ABIDE-I cohort
+subsequent_nested_search,nested_primary,41,ABIDE_I::OLIN,22,12,0.866666667,0.816666667,,training-fold inner tuning; historically explored ABIDE-I cohort
+subsequent_nested_search,nested_primary,41,ABIDE_I::PITT,21,12,0.537037037,0.569444444,,training-fold inner tuning; historically explored ABIDE-I cohort
+subsequent_nested_search,nested_primary,41,ABIDE_I::SBL,13,6,0.857142857,0.761904762,,training-fold inner tuning; historically explored ABIDE-I cohort
+subsequent_nested_search,nested_primary,41,ABIDE_I::SDSU,29,11,0.585858586,0.550505051,,training-fold inner tuning; historically explored ABIDE-I cohort
+subsequent_nested_search,nested_primary,41,ABIDE_I::STANFORD,27,12,0.588888889,0.600000000,,training-fold inner tuning; historically explored ABIDE-I cohort
+subsequent_nested_search,nested_primary,41,ABIDE_I::TRINITY,36,18,0.719135802,0.666666667,,training-fold inner tuning; historically explored ABIDE-I cohort
+subsequent_nested_search,nested_primary,41,ABIDE_I::UCLA,63,32,0.616935484,0.557459677,,training-fold inner tuning; historically explored ABIDE-I cohort
+subsequent_nested_search,nested_primary,41,ABIDE_I::UM,103,46,0.694126621,0.635583524,,training-fold inner tuning; historically explored ABIDE-I cohort
+subsequent_nested_search,nested_primary,41,ABIDE_I::USM,52,32,0.728125000,0.690625000,,training-fold inner tuning; historically explored ABIDE-I cohort
+subsequent_nested_search,nested_primary,41,ABIDE_I::YALE,43,21,0.712121212,0.601731602,,training-fold inner tuning; historically explored ABIDE-I cohort

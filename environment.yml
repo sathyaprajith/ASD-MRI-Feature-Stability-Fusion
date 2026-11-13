@@ -1,0 +1,8 @@
+name: abide-mri-fusion
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12.14
+  - pip
+  - pip:
+      - -r requirements-lock.txt

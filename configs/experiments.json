@@ -1,0 +1,202 @@
+[
+  {
+    "id": "01",
+    "name": "v4_anatomy75",
+    "stage": "stage1",
+    "seeds": [
+      17
+    ],
+    "outer_site_families": 17
+  },
+  {
+    "id": "02",
+    "name": "v4_pca128",
+    "stage": "stage1",
+    "seeds": [
+      17
+    ],
+    "outer_site_families": 17
+  },
+  {
+    "id": "03",
+    "name": "smri_stable",
+    "stage": "stage1",
+    "seeds": [
+      17
+    ],
+    "outer_site_families": 17
+  },
+  {
+    "id": "04",
+    "name": "fmri_edges",
+    "stage": "stage1",
+    "seeds": [
+      17
+    ],
+    "outer_site_families": 17
+  },
+  {
+    "id": "05",
+    "name": "fmri_roi",
+    "stage": "stage1",
+    "seeds": [
+      17
+    ],
+    "outer_site_families": 17
+  },
+  {
+    "id": "06",
+    "name": "selected_equal",
+    "stage": "stage1",
+    "seeds": [
+      17
+    ],
+    "outer_site_families": 17
+  },
+  {
+    "id": "07",
+    "name": "selected_anatomy75",
+    "stage": "stage1",
+    "seeds": [
+      17
+    ],
+    "outer_site_families": 17
+  },
+  {
+    "id": "08",
+    "name": "selected_gate",
+    "stage": "stage1",
+    "seeds": [
+      17
+    ],
+    "outer_site_families": 17
+  },
+  {
+    "id": "09",
+    "name": "selected_attention",
+    "stage": "stage1",
+    "seeds": [
+      17,
+      41
+    ],
+    "outer_site_families": 17
+  },
+  {
+    "id": "10",
+    "name": "full_attention",
+    "stage": "stage1",
+    "seeds": [
+      17,
+      41
+    ],
+    "outer_site_families": 17
+  },
+  {
+    "id": "11",
+    "name": "selected_equal_prior",
+    "stage": "ensembles",
+    "weights": {
+      "selected_equal": 1.0
+    },
+    "declared_primary": false,
+    "retrospective_comparison": true
+  },
+  {
+    "id": "12",
+    "name": "selected_gate_prior",
+    "stage": "ensembles",
+    "weights": {
+      "selected_gate": 1.0
+    },
+    "declared_primary": false,
+    "retrospective_comparison": true
+  },
+  {
+    "id": "13",
+    "name": "pca128_prior",
+    "stage": "ensembles",
+    "weights": {
+      "v4_pca128": 1.0
+    },
+    "declared_primary": false,
+    "retrospective_comparison": true
+  },
+  {
+    "id": "14",
+    "name": "blend_selected_gate_half",
+    "stage": "ensembles",
+    "weights": {
+      "selected_equal": 0.5,
+      "selected_gate": 0.5
+    },
+    "declared_primary": true,
+    "retrospective_comparison": true
+  },
+  {
+    "id": "15",
+    "name": "blend_selected_pca_half",
+    "stage": "ensembles",
+    "weights": {
+      "selected_equal": 0.5,
+      "v4_pca128": 0.5
+    },
+    "declared_primary": false,
+    "retrospective_comparison": true
+  },
+  {
+    "id": "16",
+    "name": "blend_selected_pca_75_25",
+    "stage": "ensembles",
+    "weights": {
+      "selected_equal": 0.75,
+      "v4_pca128": 0.25
+    },
+    "declared_primary": false,
+    "retrospective_comparison": true
+  },
+  {
+    "id": "17",
+    "name": "blend_selected_gate_pca_50_25_25",
+    "stage": "ensembles",
+    "weights": {
+      "selected_equal": 0.5,
+      "selected_gate": 0.25,
+      "v4_pca128": 0.25
+    },
+    "declared_primary": false,
+    "retrospective_comparison": true
+  },
+  {
+    "id": "18",
+    "name": "blend_gate_pca_half",
+    "stage": "ensembles",
+    "weights": {
+      "selected_gate": 0.5,
+      "v4_pca128": 0.5
+    },
+    "declared_primary": false,
+    "retrospective_comparison": true
+  },
+  {
+    "id": "19",
+    "name": "nested_primary",
+    "stage": "nested",
+    "seeds": [
+      17,
+      41
+    ],
+    "inner_splits": 3,
+    "n_boot": 8,
+    "outer_site_families": 17
+  },
+  {
+    "id": "20",
+    "name": "paired_statistics",
+    "stage": "paired",
+    "seeds": [
+      17,
+      41
+    ],
+    "bootstrap_draws": 4000
+  }
+]

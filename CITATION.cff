@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this research software or its aggregate results with permission, cite this repository. Add its permanent repository URL or release DOI when one exists."
+type: software
+title: "Cross-Site Autism Classification from Structural and Functional MRI: A Feature-Stability-Guided Fusion Study"
+authors:
+  - family-names: Puppala
+    given-names: Sireesha
+  - family-names: Reddy
+    given-names: Mallela Sathya Prajith
+  - family-names: Thodupunooru
+    given-names: Avaneesh
+version: "0.1.0"
+date-released: "2026-11-12"
+abstract: "Research software and aggregate results for an exploratory 720-participant ABIDE-I multimodal MRI comparison across 17 acquisition-site families. No independent clinical validation is claimed."
+keywords:
+  - autism
+  - ABIDE-I
+  - structural MRI
+  - functional connectivity
+  - cross-site evaluation

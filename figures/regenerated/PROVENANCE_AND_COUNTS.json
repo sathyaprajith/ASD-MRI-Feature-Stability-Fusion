@@ -1,0 +1,13 @@
+{
+  "source": "Additional_file_2_Feature_Selection_Stability.csv",
+  "source_sha256": "4999cc783d049ac2307961bbada39fcb12a648598543de0134ffee596b59c25a",
+  "model": "selected_equal",
+  "outer_folds": 17,
+  "region_count": 116,
+  "candidate_edges": 6670,
+  "edges_selected_at_least_once": 1186,
+  "edges_selected_in_all_17_folds": 112,
+  "aggregate_feature_selection_occurrences": 7936,
+  "mean_selected_edges_per_fold": 466.8235294117647,
+  "data_type": "real archived experiment selection counts; no synthetic values"
+}

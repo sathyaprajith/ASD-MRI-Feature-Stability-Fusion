@@ -1,0 +1,39 @@
+# Private data and generated runs
+/data/*
+!/data/README.md
+/runs/*
+!/runs/README.md
+private_predictions/
+private_selection/
+private_models/
+audit_private/
+RESULTS_PRIVATE/
+*.nii
+*.nii.gz
+*.npz
+*.npy
+*.pt
+*.pth
+*.ckpt
+*.joblib
+*.pkl
+*.pickle
+*.h5
+*.hdf5
+# Local environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+.env
+.env.*
+!.env.example
+.DS_Store
+*.log
+# Nested distribution archives and LaTeX build output
+*.zip
+*.aux
+*.out
+*.synctex.gz
